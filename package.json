@@ -1,5 +1,5 @@
 {
-  "name": "virtual-proxy",
+  "name": "virtual-proxy-wrapper",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -7,8 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "virtual-proxy": "^0.0.11"
-  }
+  "license": "ISC"
 }
